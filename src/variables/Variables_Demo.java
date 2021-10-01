@@ -1,3 +1,5 @@
+package variables;
+
 public class Variables_Demo {
     public static void main(String[] args) {
         // DataType variable_name = value

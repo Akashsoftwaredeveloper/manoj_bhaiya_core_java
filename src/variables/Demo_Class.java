@@ -1,3 +1,5 @@
+package variables;
+
 public class Demo_Class {
     public static void main(String[] args) {
         System.out.println("This project name is Manoj bhaiya core java ");
