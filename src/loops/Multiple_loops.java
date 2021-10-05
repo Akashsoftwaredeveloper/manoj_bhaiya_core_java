@@ -14,5 +14,6 @@ public class Multiple_loops {
             int result=3*k;
             System.out.println("Printing table of Three "+result);
         }
+
     }
 }

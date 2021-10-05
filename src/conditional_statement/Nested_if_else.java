@@ -9,13 +9,13 @@ public class Nested_if_else {
       // AND OPERATOR
       if(a>0 && b>1){
 
-          System.out.println("a,bis greater than 0");
+          System.out.println("a,b is greater than 0");
       }else{
 
           System.out.println("a,b is not greater than 0");
       }
-      // || PIPE OPERATOR
-      if (a>40 || b>1){
+      // || PIPE OPERATOR, or operator
+      if (a>4 || b>1){
 
           System.out.println("OR operator true block");
       }else{

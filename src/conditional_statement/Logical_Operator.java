@@ -11,5 +11,10 @@ public class Logical_Operator {
         }else{
             System.out.println("This person is not adult and not live in agra city");
         }
+        if(age<16 || city=="Delhi"){
+            System.out.println("This person is adult and not live in agra");
+        }else{
+            System.out.println("This is else part");
+        }
     }
 }
