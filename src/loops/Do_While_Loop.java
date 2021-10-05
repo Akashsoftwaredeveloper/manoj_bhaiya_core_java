@@ -10,14 +10,18 @@ public class Do_While_Loop {
           int i=0;
         do {
             System.out.println("This is do while loop "+i);
-            i++;
+            i++;if(i==3){
+                break;
+            }
         } while(i<5);
 
-        // 2 do while loop
+        // 2 do while loop Statement
         int k=0;
         do {
             System.out.println("This is 2 do while loop "+k);
-            k++;
+            k++;if(k==4){
+                break;
+            }
         }while (k<6);
 
     }

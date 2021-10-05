@@ -10,13 +10,17 @@ public class While_Loop {
 
         while(i<5){
             System.out.println("This is while loop "+i);
-            i++;
+            i++;if(i==2){
+                break;
+            }
         }
         // While loop statement
         int k=1;
         while(k<5){
             System.out.println("This is Sara");
-            k++;
+            k++;if(k==3){
+                break;
+            }
         }
 
     }
