@@ -14,7 +14,7 @@ public class Condition {
         }
 
         String city = "pune";
-        if (city=="delhii"){
+        if (city=="delhi"){
             System.out.println("This person is in pune");
         }else{
             System.out.println("This person is not in pune");
