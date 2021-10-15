@@ -26,7 +26,7 @@ public class CalculatorWithScanner2 {
     public static void main(String[] args) {
         CalculatorWithScanner2 obj= new CalculatorWithScanner2();
 
-        Scanner myoObj= new Scanner(System.in);
+        Scanner myoObj= new Scanner(System.in);  // Creating scanner object
         System.out.println("Please enter choice value of 1 for Addition, 2 for Subtraction, 3 for Multiplication and 4 for divide ");
 
         int choice= myoObj.nextInt();
