@@ -44,7 +44,7 @@ public class CalculatorWithScanner {
 
         System.out.println("Please enter value of g");
         int g= myObj.nextInt();
-        System.out.println("Please enter value of g");
+        System.out.println("Please enter value of h");
         int h=myObj.nextInt();
 
         int Store=obj.multiplication(g,h);
