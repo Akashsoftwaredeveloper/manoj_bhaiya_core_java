@@ -1,6 +1,7 @@
 package collection;
 
-import javax.imageio.stream.ImageInputStream;
+import model.Student;
+
 import java.util.HashMap;
 
 public class StudentHashMap {

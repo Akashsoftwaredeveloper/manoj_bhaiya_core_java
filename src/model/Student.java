@@ -1,4 +1,4 @@
-package collection;
+package model;
 
 public class Student {
     String name;
